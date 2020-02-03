@@ -8,7 +8,7 @@
 
 Bixby Presentations that we have created and presented at various conferences, webinars and events:
 
-* **Bixby Developer Sessions 19**: Presentations from our 2019 Bixby Developer Session Hackathons
+* **[Bixby Developer Sessions 19](https://github.com/bixbydevelopers/presentation-share/tree/master/Bixby%20Developer%20Sessions%2019)**: Presentations from our 2019 Bixby Developer Session Hackathons
 * **Bottish Webinar**: Presentations from the [2019 Bottish Webinar](https://youtu.be/m5sYOUufWQ8)
 * **DevJam 19 Office Hours**: Presentations from the 2019 Bixby DevJam
 * **Ocean Brazil**: Presentations from the [2019 Ocean Brazil IOT Week](http://oceanbrasil.com/iot2019/)
