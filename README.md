@@ -6,7 +6,7 @@
 
 ## Overview 
 
-Presentations that we have created for Bixby for various conferences, webinars and events:
+Bixby Presentations that we have created and presented at various conferences, webinars and events:
 
 * **Bixby Developer Sessions 19**: Presentations from our 2019 Bixby Developer Session Hackathons
 * **Bottish Webinar**: Presentations from the [2019 Bottish Webinar](https://youtu.be/m5sYOUufWQ8)
