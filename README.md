@@ -1,5 +1,5 @@
 <p align="Center">
-  <img src="https://bixbydevelopers.com/dev/docs-assets/resources/dev-guide/bixby_logo_github-11221940070278028369.png">
+  <img src="https://raw.githubusercontent.com/bixbydevelopers/presentation-share/master/Images/bixby_logo_github.png">
   <br/>
   <h1 align="Center">Bixby Presentation Share</h1>
 </p>
