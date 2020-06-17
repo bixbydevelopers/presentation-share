@@ -12,9 +12,11 @@ Bixby Presentations that we have created and presented at various conferences, w
 * **[Bottish Webinar](https://github.com/bixbydevelopers/presentation-share/tree/master/Bottish%20Webinar)**: Presentations from the [2019 Bottish Webinar](https://youtu.be/m5sYOUufWQ8)
 * **[DevJam 19 Office Hours](https://github.com/bixbydevelopers/presentation-share/tree/master/DevJam%202019%20Office%20Hours)**: Presentations from the 2019 Bixby DevJam
 * **[Ocean Brazil](https://github.com/bixbydevelopers/presentation-share/tree/master/Ocean%20Brazil)**: Presentations from the [2019 Ocean Brazil IOT Week](http://oceanbrasil.com/iot2019/)
+* **[Office Hours](https://github.com/bixbydevelopers/presentation-share/tree/master/Office%20Hours)**: Presentations from the [Bixby Developer Office Hours](https://www.youtube.com/playlist?list=PLE9wDcpAxXg-HWCptTiZHhqwqFckNZ4uJ)
 * **[Project Voice 2020](https://github.com/bixbydevelopers/presentation-share/tree/master/Project%20Voice%202020)**: Presentations from the [2020 Project Voice Conference](https://www.projectvoice.ai/)
 * **[SDC 19](https://github.com/bixbydevelopers/presentation-share/tree/master/SDC%2019)**: Presentations from the [2019 Samsung Developers Conference](https://www.youtube.com/playlist?list=PLE9wDcpAxXg8Rj-2shGh21n_lIkNTO7cn)
 * **[Voice Summit 19](https://github.com/bixbydevelopers/presentation-share/tree/master/Voice%20Summit%2019)**: Presentations from the [2019 Voice Summit](https://www.voicesummit.ai/)
+* **[Voice Summit 20](https://github.com/bixbydevelopers/presentation-share/tree/master/Voice%20Summit%2020)**: Presentations from the [2020 Voice Global and Voice Summit](https://www.voicesummit.ai/)
 * **[Voicebot Webinars](https://github.com/bixbydevelopers/presentation-share/tree/master/Voicebot%20Webinars)**: Presentations from the Voicebot Webinars [#1](https://voicebot.ai/webinars/get-to-know-bixby/) and [#2](https://voicebot.ai/webinars/how-to-work-with-bixby-marketplace-and-capsules/)
 * **[Youtube Tutorial Videos](https://github.com/bixbydevelopers/presentation-share/tree/master/Youtube%20Tutorial%20Videos)**: Presentations from our [YouTube tutorials](https://www.youtube.com/c/bixbydevelopers)
 
